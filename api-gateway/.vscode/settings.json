@@ -28,5 +28,6 @@
     "!Split",
     "!Split sequence"
   ],
-  "typescript.preferences.importModuleSpecifier": "relative"
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "git.ignoreLimitWarning": true
 }
